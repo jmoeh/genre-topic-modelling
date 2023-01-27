@@ -4,3 +4,4 @@ data
 .venv
 .idea
 src/.ipynb_checkpoints/
+__pycache__
