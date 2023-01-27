@@ -1,3 +1,6 @@
 venv
 data
 .env
+.venv
+.idea
+src/.ipynb_checkpoints/
