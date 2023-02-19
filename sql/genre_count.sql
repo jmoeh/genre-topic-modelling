@@ -1,0 +1,1 @@
+SELECT genre, count(*) FROM "songs" GROUP BY genre ORDER BY genre DESC;
