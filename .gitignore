@@ -1,6 +1,5 @@
 venv
 data
-models
 .env
 .venv
 .idea
