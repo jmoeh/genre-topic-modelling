@@ -1,7 +1,9 @@
 venv
 data
+models
 .env
 .venv
 .idea
+.vscode
 src/.ipynb_checkpoints/
 __pycache__
